@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/dr-indhira-mendoza-g-healthtech"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[linkedin.com/in/dr-indhira-mendoza-g-healthtech] https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Buz4%2FR4frRWCsFVZW%2BLWzNg%3D%3D" height="30" width="40" /></a>
+<a href="linkedin.com/in/dr-indhira-mendoza-g-healthtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/dr-indhira-mendoza-g-healthtech" height="30" width="40" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indhiramg&show_icons=true&locale=en" alt="indhiramg" /></p>

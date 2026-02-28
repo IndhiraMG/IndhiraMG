@@ -17,9 +17,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=indhiramg&show_icons=true&locale=en&theme=default" 
-       alt="indhiramg's GitHub stats" 
-       height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=indhiramg&theme=default" 
        alt="indhiramg's streak stats" 
        height="150" />

@@ -16,7 +16,7 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=indhiramg&theme=default" 
        alt="indhiramg's streak stats" 
        height="150" />

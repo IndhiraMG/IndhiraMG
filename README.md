@@ -6,10 +6,27 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/dr-indhira-mendoza-g-healthtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/dr-indhira-mendoza-g-healthtech" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/dr-indhira-mendoza-g-healthtech" target="_blank" rel="noopener noreferrer">
+    <img align="center" 
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+         alt="LinkedIn - Indhira MG HealthTech" 
+         height="30" 
+         width="40" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=indhiramg&show_icons=true&locale=en" alt="indhiramg" /></p>
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=indhiramg&show_icons=true&locale=en&theme=default" 
+       alt="indhiramg's GitHub stats" 
+       height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indhiramg&theme=default" 
+       alt="indhiramg's streak stats" 
+       height="150" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indhiramg&" alt="indhiramg" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=indhiramg&label=Profile%20views&color=0e75b6&style=flat" alt="indhiramg" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=indhiramg&label=Profile%20views&color=0e75b6&style=flat" 
+       alt="indhiramg" 
+       height="20" />
+</p>

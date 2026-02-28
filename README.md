@@ -66,3 +66,43 @@
   <img src="https://img.shields.io/badge/Jira_|_Trello-Task_Management-0052CC?style=flat&logo=jira&logoColor=white" alt="Project Management" height="25"/>
   <img src="https://img.shields.io/badge/Digital_Health-Innovation-16A085?style=flat&logo=health&logoColor=white" alt="Digital Health" height="25"/>
 </p>
+
+<h3 align="left">🔭 Currently Working On</h3>
+
+<p align="left">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <strong>🩺 Clinical Validation for HealthApps</strong><br>
+        <small>Testing UX flows in oncology apps from a clinician's perspective</small><br>
+        <img src="https://progress-bar.dev/60/?title=Progress&color=0e75b6" alt="Progress" width="100%"/>
+      </td>
+      <td valign="top" width="50%">
+        <strong>🧪 Software Testing Fundamentals</strong><br>
+        <small>Building QA skills: test cases, bug reporting, UAT methodologies</small><br>
+        <img src="https://progress-bar.dev/45/?title=Progress&color=2ecc71" alt="Progress" width="100%"/>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="50%">
+        <strong>🤝 Open-Source Health Contributions</strong><br>
+        <small>Validating clinical workflows in OpenMRS & LibreHealth</small><br>
+        <img src="https://progress-bar.dev/30/?title=Progress&color=9b59b6" alt="Progress" width="100%"/>
+      </td>
+      <td valign="top" width="50%">
+        <strong>📝 Content Creation: HealthTech</strong><br>
+        <small>Writing about the intersection of oncology and digital health</small><br>
+        <img src="https://progress-bar.dev/45/?title=Progress&color=e74c3c" alt="Progress" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <em>🔄 Open to collaborate on projects that need clinical validation in early-stage HealthTech products</em>
+</p>
+
+<p align="center">
+  <strong>🎯 Focus Areas:</strong><br>
+  Patient Safety • Clinical UX • Interoperability (DICOM/HL7/FHIR) • Regulatory Awareness • Agile Collaboration
+</p>

@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="agregar un Indhira MG, MD.png" alt="Indhira MG - Radiation Oncologist transitioning to HealthTech" width="100%"/>
+</p>
 <!-- Banner personalizado  -->
 <p align="center">
   <img src="https://img.shields.io/badge/🩺_Radiation_Oncologist_→_HealthTech_Enthusiast-Building_Bridges-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Banner"/>

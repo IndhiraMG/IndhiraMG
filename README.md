@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="agregar un Indhira MG, MD.png" alt="Indhira MG - Radiation Oncologist transitioning to HealthTech" width="100%"/>
+  <img src="Agregar un Indhira MG, MD.png" alt="Indhira MG - Radiation Oncologist transitioning to HealthTech" width="100%"/>
 </p>
 <!-- Banner personalizado  -->
 <p align="center">

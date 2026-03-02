@@ -69,34 +69,32 @@
 
 <h3 align="left">🔭 Currently Working On</h3>
 
-<p align="left">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <strong>🩺 Clinical Validation for HealthApps</strong><br>
-        <small>Testing UX flows in oncology apps from a clinician's perspective</small><br>
-        <img src="https://progress-bar.dev/60/?title=Progress&color=0e75b6" alt="Progress" width="100%"/>
-      </td>
-      <td valign="top" width="50%">
-        <strong>🧪 Software Testing Fundamentals</strong><br>
-        <small>Building QA skills: test cases, bug reporting, UAT methodologies</small><br>
-        <img src="https://progress-bar.dev/45/?title=Progress&color=2ecc71" alt="Progress" width="100%"/>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" width="50%">
-        <strong>🤝 Open-Source Health Contributions</strong><br>
-        <small>Validating clinical workflows in OpenMRS & LibreHealth</small><br>
-        <img src="https://progress-bar.dev/30/?title=Progress&color=9b59b6" alt="Progress" width="100%"/>
-      </td>
-      <td valign="top" width="50%">
-        <strong>📝 Content Creation: HealthTech</strong><br>
-        <small>Writing about the intersection of oncology and digital health</small><br>
-        <img src="https://progress-bar.dev/45/?title=Progress&color=e74c3c" alt="Progress" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</p>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>🩺 Clinical Validation for HealthApps</strong><br>
+      <small>Testing UX flows in oncology apps from a clinician's perspective</small><br>
+      <img src="https://img.shields.io/badge/Progress-60%25-0e75b6?style=flat&logo=github" alt="Progress"/>
+    </td>
+    <td valign="top" width="50%">
+      <strong>🧪 Software Testing Fundamentals</strong><br>
+      <small>Building QA skills: test cases, bug reporting, UAT methodologies</small><br>
+      <img src="https://img.shields.io/badge/Progress-45%25-2ecc71?style=flat&logo=github" alt="Progress"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>🤝 Open-Source Health Contributions</strong><br>
+      <small>Validating clinical workflows in OpenMRS & LibreHealth</small><br>
+      <img src="https://img.shields.io/badge/Progress-30%25-9b59b6?style=flat&logo=github" alt="Progress"/>
+    </td>
+    <td valign="top" width="50%">
+      <strong>📝 Content Creation: HealthTech</strong><br>
+      <small>Writing about the intersection of oncology and digital health</small><br>
+      <img src="https://img.shields.io/badge/Progress-75%25-e74c3c?style=flat&logo=github" alt="Progress"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <em>🔄 Open to collaborate on projects that need clinical validation in early-stage HealthTech products</em>
